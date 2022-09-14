@@ -1,2 +1,18 @@
-anteckningar 14 September
+Att läsa på om
+    * Branching generellt
+    * kommandot git remote show origin
+    * git merge, hur funkar det hur gör man?
+    * feature vs Refactorization-branch? när använder man vilket arbetssätt? Vad betyder Refactorization? Refactorization = snygga till lite? läs på 
+
+
+Git versionshantering
+
+    * Mainbranch - Ska alltid vara körbar, Huvudbranch
+        * Development branch - pågår utveckling, allt kanske inte fungerar perfekt. Buggar kan och finns antagligen 
+            * feature branch vs Refactorization branch,  
+
+
+kan uppstå (händer ofta) problem vid merge då olika branches kanske inte lirar med varandra
+
+Spelar ingen roll vilken branch du är på när du stage och commitar ändringar, så länge du är på rätt branch när du gör push
 
