@@ -14,5 +14,5 @@ Git versionshantering
 
 kan uppstå (händer ofta) problem vid merge då olika branches kanske inte lirar med varandra
 
-Spelar ingen roll vilken branch du är på när du stage och commitar ändringar, så länge du är på rätt branch när du gör push
+Måste vara i rätt branch när du gör stage och commit
 
