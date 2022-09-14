@@ -22,3 +22,11 @@ git push --all origin == pushar upp alla branches till remote
 stage och commit == bestämmer att ändrningar sparas i den aktuella branchen man står i
 
 Se till att på rätt branch -> spara ner filen/projektet lokalt -> git stage -> git commit -> git push
+
+
+TEORI OOP - KONSTRUKTOR OCH INKAPSLING
+
+    Vad är en konstruktor? En metod som körs i samband med att ett objekt skapas
+
+behöver man använda using <namn på ditt namespace> om du lägger i olika mappar/namespaces? 
+namespace handlar bara om att sortera upp sin kod

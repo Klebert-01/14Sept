@@ -1,0 +1,15 @@
+C:\Users\arvid\source\REPOS\ITHS repos\14Sept\14Sept\bin\Debug\net6.0\14Sept.exe
+C:\Users\arvid\source\REPOS\ITHS repos\14Sept\14Sept\bin\Debug\net6.0\14Sept.deps.json
+C:\Users\arvid\source\REPOS\ITHS repos\14Sept\14Sept\bin\Debug\net6.0\14Sept.runtimeconfig.json
+C:\Users\arvid\source\REPOS\ITHS repos\14Sept\14Sept\bin\Debug\net6.0\14Sept.dll
+C:\Users\arvid\source\REPOS\ITHS repos\14Sept\14Sept\bin\Debug\net6.0\14Sept.pdb
+C:\Users\arvid\source\REPOS\ITHS repos\14Sept\14Sept\obj\Debug\net6.0\14Sept.csproj.AssemblyReference.cache
+C:\Users\arvid\source\REPOS\ITHS repos\14Sept\14Sept\obj\Debug\net6.0\14Sept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvid\source\REPOS\ITHS repos\14Sept\14Sept\obj\Debug\net6.0\14Sept.AssemblyInfoInputs.cache
+C:\Users\arvid\source\REPOS\ITHS repos\14Sept\14Sept\obj\Debug\net6.0\14Sept.AssemblyInfo.cs
+C:\Users\arvid\source\REPOS\ITHS repos\14Sept\14Sept\obj\Debug\net6.0\14Sept.csproj.CoreCompileInputs.cache
+C:\Users\arvid\source\REPOS\ITHS repos\14Sept\14Sept\obj\Debug\net6.0\14Sept.dll
+C:\Users\arvid\source\REPOS\ITHS repos\14Sept\14Sept\obj\Debug\net6.0\refint\14Sept.dll
+C:\Users\arvid\source\REPOS\ITHS repos\14Sept\14Sept\obj\Debug\net6.0\14Sept.pdb
+C:\Users\arvid\source\REPOS\ITHS repos\14Sept\14Sept\obj\Debug\net6.0\14Sept.genruntimeconfig.cache
+C:\Users\arvid\source\REPOS\ITHS repos\14Sept\14Sept\obj\Debug\net6.0\ref\14Sept.dll
