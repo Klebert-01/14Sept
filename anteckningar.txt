@@ -1,18 +1,22 @@
 Att läsa på om
-    * Branching generellt
+    * Branching generellt - Öva på att skapa nya branches, push och pull och byta mellan branches för att se ändrningar
     * kommandot git remote show origin
     * git merge, hur funkar det hur gör man?
-    * feature vs Refactorization-branch? när använder man vilket arbetssätt? Vad betyder Refactorization? Refactorization = snygga till lite? läs på 
+    * feature vs Refactorization-branch? när använder man vilket arbetssätt? Vad betyder Refactorization? Refactorization = snygga till lite? läs på
+    * Kolla labbuppgiften så att båda branches ligger inne i ditt repo. verkar som att dom ligger där dubbelkolla
 
 
 Git versionshantering
 
     * Mainbranch - Ska alltid vara körbar, Huvudbranch
         * Development branch - pågår utveckling, allt kanske inte fungerar perfekt. Buggar kan och finns antagligen 
-            * feature branch vs Refactorization branch,  
+            * feature branch vs Refactorization branch. Refactorization branch = snygga till koden och fixa allt innan merge till main/master
 
 
 kan uppstå (händer ofta) problem vid merge då olika branches kanske inte lirar med varandra
 
 Måste vara i rätt branch när du gör stage och commit
 
+git push --all origin == pushar upp alla branches till remote
+
+stage och commit == bestämmer att ändrningar sparas i den aktuella branchen man står i
