@@ -30,3 +30,11 @@ TEORI OOP - KONSTRUKTOR OCH INKAPSLING
 
 behöver man använda using <namn på ditt namespace> om du lägger i olika mappar/namespaces? 
 namespace handlar bara om att sortera upp sin kod
+
+access modifiers
+
+Public = går att anropa utanför klassen (metoder, fields)
+private = går bara att anropa inom klassen den är gjord i
+
+varför deklarera saker private? 
+för att vissa metoder, fält osv vill man inte kunna ändra på för att undvika buggar i programmet 
