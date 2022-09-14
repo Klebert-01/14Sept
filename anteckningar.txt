@@ -20,3 +20,5 @@ Måste vara i rätt branch när du gör stage och commit
 git push --all origin == pushar upp alla branches till remote
 
 stage och commit == bestämmer att ändrningar sparas i den aktuella branchen man står i
+
+Se till att på rätt branch -> spara ner filen/projektet lokalt -> git stage -> git commit -> git push
